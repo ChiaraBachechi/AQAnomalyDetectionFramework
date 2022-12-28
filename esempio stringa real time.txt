@@ -1,0 +1,5 @@
+main.py --id_sensor 4003
+        --id_algorithm 6 
+         --action AnomalyDetectionRealTImeTest 
+          --json_values "{\"algorithm\":6, \"id_sensor_low_cost_status\":50,\"no_we\":3000.0,\"no_aux\":100,\"no2_we\":200,\"no2_aux\":1,\"co_we\":200,\"co_aux\":5,\"ox_we\":60,\"ox_aux\":2,\"temperature\":25,\"humidity\":50,\"phenomenon_time\":\"2020-08-11 00:00:00\"}"
+     

@@ -1,0 +1,7 @@
+{
+ 
+  "window":2000,
+  "time_column":"phenomenon_time",
+  "q":6,
+  "differences_upper_bound": 2000
+ }
